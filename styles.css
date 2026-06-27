@@ -2430,7 +2430,7 @@ body.admin-edit-mode .academic-card {
 /* --- Back to Top Button --- */
 #back-to-top {
   position: fixed;
-  bottom: 25px;
+  bottom: 100px;
   right: 25px;
   width: 45px;
   height: 45px;
@@ -2553,7 +2553,7 @@ body.admin-edit-mode img {
 /* --- High Priority Back to Top Button --- */
 #back-to-top {
   position: fixed !important;
-  bottom: 25px !important;
+  bottom: 100px !important;
   right: 25px !important;
   width: 50px !important;
   height: 50px !important;
@@ -2697,7 +2697,7 @@ body.admin-edit-mode img {
 /* --- High Priority Back to Top Button --- */
 #back-to-top {
   position: fixed !important;
-  bottom: 25px !important;
+  bottom: 100px !important;
   right: 25px !important;
   width: 50px !important;
   height: 50px !important;
@@ -2879,7 +2879,7 @@ body.inspector-mode-active {
 /* --- High Priority Back to Top Button --- */
 #back-to-top {
   position: fixed !important;
-  bottom: 25px !important;
+  bottom: 100px !important;
   right: 25px !important;
   width: 50px !important;
   height: 50px !important;
